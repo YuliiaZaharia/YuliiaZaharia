@@ -1,4 +1,4 @@
-![My Image](https://github.com/YuliiaZaharia/YuliiaZaharia/blob/48322f911474d8f135437d60a7efc0164b433db7/header-github.png)
+![My Image](https://github.com/YuliiaZaharia/YuliiaZaharia/blob/ec7ea8e0818df056cf4323aade4cbd8e4697106b/header-github2.png)
 
 - Check out my [portfolio](https://fabulous-phoenix-73e5e4.netlify.app/) to learn more about my projects.
 - Explore my latest [CV](https://drive.google.com/file/d/1pW_SRGPd5UGK7VW_k8PJaszU77A0gVU5/view?usp=sharing) where you can explore my experience.
