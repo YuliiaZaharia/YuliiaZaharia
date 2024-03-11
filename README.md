@@ -2,7 +2,7 @@
  
 ## 🧬 About Me:
 
-I am computer science and interface design student at US university with experience in building and designing websites and apps. In addition to making software run smoothly, my target is to design user interfaces that are pixel-perfect and intuitive. I adore discovering new and improved techniques for using readable, scalable, and efficient code to produce flawless user experiences. I see my job as a continuous learning process, and I'm looking for chances to collaborate with digital professionals. My main goal is to work with people who bring out the best in me to develop something useful at the end of the day. 
+I am computer science student at US university with experience in building and designing digital solutions. In addition to making software run smoothly, my target is to design user interfaces that are pixel-perfect and intuitive. I adore discovering new and improved techniques for using readable, scalable, and efficient code to produce flawless user experiences. I see my job as a continuous learning process, and I'm looking for chances to collaborate with digital professionals. My main target is to work with people who bring out the best in me to develop something useful at the end of the day. 
  
 🔶 Check out my [portfolio](https://fabulous-phoenix-73e5e4.netlify.app/) to learn more about my projects.
 </br>
