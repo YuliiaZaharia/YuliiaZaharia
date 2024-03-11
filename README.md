@@ -1,4 +1,4 @@
-![My Image](https://github.com/YuliiaZaharia/YuliiaZaharia/blob/76cbb34a3273bfe759555608d73c3e772a48e1c0/github-header3.png)
+![My Image](https://github.com/YuliiaZaharia/YuliiaZaharia/blob/42eb5369193f8761534d90da302d77dcc2ad216f/header-github4.png)
 
 ## About Me:
 
