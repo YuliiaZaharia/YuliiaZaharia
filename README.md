@@ -9,6 +9,8 @@ I am computer science and interface design student at US university with experie
 🔷 Explore my latest [CV](https://drive.google.com/file/d/1pW_SRGPd5UGK7VW_k8PJaszU77A0gVU5/view?usp=sharing) where you can explore my experience.
 </br>
 🔷 Find me on [LinkedIn](https://www.linkedin.com/in/yuliia-zaharia/) for productive collaborations.
+
+![Animated GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphNW9naG5ydXNzbTk3OG1kemV5Mms5dTBpaHpzZHB6anZtbmFkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif)
  
 ## 🦾 Toolkit
 
@@ -26,7 +28,7 @@ I am computer science and interface design student at US university with experie
 
 🍕 Homemade pizza baking is my biggest hobby. Check out my best [recipes](https://zippy-palmier-78a2fe.netlify.app/). 
 </br>
-🗺️ International kid: I am feeling comfortable being worldwide.
+🧭 International kid: I am feeling comfortable being worldwide.
 </br>
 📝 I am a web developer with a background in journalism and education.
 </br>
@@ -36,8 +38,4 @@ I am computer science and interface design student at US university with experie
 
 ## 📩 Contact
 
- Have a nice project in mind or simply want to talk? I am happy to receive your [Email](mailto:yuliia.zaharia@gmail.com). 
-
- ###
-
-![Animated GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphNW9naG5ydXNzbTk3OG1kemV5Mms5dTBpaHpzZHB6anZtbmFkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif)
+Have a nice project in mind or simply want to talk? I am happy to receive your [Email](mailto:yuliia.zaharia@gmail.com). 
