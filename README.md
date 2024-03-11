@@ -1,6 +1,6 @@
 ![My Image](https://github.com/YuliiaZaharia/YuliiaZaharia/blob/42eb5369193f8761534d90da302d77dcc2ad216f/header-github4.png)
 
-## About Me:
+## 🧬 About Me:
 
 I am computer science and interface design student at US university with experience in building and designing websites and apps. In addition to making software run smoothly, my target is to design user interfaces that are pixel-perfect and intuitive. I adore discovering new and improved techniques for using readable, scalable, and efficient code to produce flawless user experiences. I see my job as a continuous learning process, and I'm looking for chances to collaborate with digital professionals. My main goal is to work with people who bring out the best in me to develop something useful at the end of the day. 
 
@@ -12,23 +12,27 @@ I am computer science and interface design student at US university with experie
  
 ## 🦾 Toolkit
 
-**Frontend Development:** `HTML5` `CSS3` `JavaScript` `Bootstrap`
+🔶 **Frontend Development:** `HTML5` `CSS3` `JavaScript` `Bootstrap`
 
-**Backend Development:** `Node.js` `MongoDB` `Express JS` `React` 
+🔶 **Backend Development:** `Node.js` `MongoDB` `Express JS` `React` 
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+🔶 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Currently Learning:** `Python` `Java` `Flutter` 
+🔶 **Currently Learning:** `Python` `Java` `Flutter` 
 
-**Additional:** `Figma` `GSAP` `VSCode` `After Affects` 
+🔶 **Additional:** `Figma` `GSAP` `VSCode` `After Affects` 
  
 ## 🔮 Fun Facts 
 
-- Homemade pizza baking is my biggest hobby. Check out my best [recipes](https://zippy-palmier-78a2fe.netlify.app/). 
-- International kid: I am feeling comfortable being worldwide.
-- I am a web developer with a background in journalism and education.
-- I've been awarded a scholarship for bachelor's degree in computer science.
-- Personal belief: A positive mindset is a magnet for success. 
+🍕 Homemade pizza baking is my biggest hobby. Check out my best [recipes](https://zippy-palmier-78a2fe.netlify.app/). 
+</br>
+🗺️ International kid: I am feeling comfortable being worldwide.
+</br>
+📝 I am a web developer with a background in journalism and education.
+</br>
+🔭 I've been awarded a scholarship for bachelor's degree in computer science.
+</br>
+🧲 Personal belief: A positive mindset is a magnet for success. 
 
 ## 📩 Contact
 
