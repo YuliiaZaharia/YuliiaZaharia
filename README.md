@@ -40,18 +40,4 @@ I am computer science and interface design student at US university with experie
 
  ###
 
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yuliiazaharia&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yuliiazaharia&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=yuliiazaharia&show_icons=true" />
-</picture>
-
- 
-
-
+![Animated GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphNW9naG5ydXNzbTk3OG1kemV5Mms5dTBpaHpzZHB6anZtbmFkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif)
