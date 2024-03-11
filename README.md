@@ -1,8 +1,12 @@
 ![My Image](https://github.com/YuliiaZaharia/YuliiaZaharia/blob/76cbb34a3273bfe759555608d73c3e772a48e1c0/github-header3.png)
 
-- Check out my [portfolio](https://fabulous-phoenix-73e5e4.netlify.app/) to learn more about my projects.
-- Explore my latest [CV](https://drive.google.com/file/d/1pW_SRGPd5UGK7VW_k8PJaszU77A0gVU5/view?usp=sharing) where you can explore my experience.
-- Find me on [LinkedIn](https://www.linkedin.com/in/yuliia-zaharia/) for productive collaborations.
+I am computer science and interface design student at US university with experience in building and designing websites and apps. In addition to making software run smoothly, my target is to design user interfaces that are pixel-perfect and intuitive. I adore discovering new and improved techniques for using readable, scalable, and efficient code to produce flawless user experiences. I see my job as a continuous learning process, and I'm looking for chances to collaborate with digital professionals. My main goal is to work with people who bring out the best in me to develop something useful at the end of the day. 
+
+🔷 Check out my [portfolio](https://fabulous-phoenix-73e5e4.netlify.app/) to learn more about my projects.
+</br>
+🔷 Explore my latest [CV](https://drive.google.com/file/d/1pW_SRGPd5UGK7VW_k8PJaszU77A0gVU5/view?usp=sharing) where you can explore my experience.
+</br>
+🔷 Find me on [LinkedIn](https://www.linkedin.com/in/yuliia-zaharia/) for productive collaborations.
  
 ## 🦾 Toolkit
 
