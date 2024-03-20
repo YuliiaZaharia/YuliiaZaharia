@@ -1,6 +1,6 @@
 ![My Image](https://github.com/YuliiaZaharia/YuliiaZaharia/blob/42eb5369193f8761534d90da302d77dcc2ad216f/header-github4.png)
  
-## 🧬 About Me:
+## 🧬 About Me
 
 I am computer science student at US university with experience in building and designing websites and apps. In addition to making software run smoothly, my target is to build user interfaces that are pixel-perfect and intuitive. I adore exploring new things and improved techniques for using readable, scalable, and efficient code to produce flawless user experiences. I see my job as a continuous learning process, and I'm looking for chances to collaborate with digital professionals. My main target is to work with people who bring out the best in me to develop something useful at the end of the day.
  
